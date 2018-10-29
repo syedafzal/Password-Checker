@@ -1,6 +1,6 @@
 
 package password.checker;
-import java.util.*;
+
 /**
  *Abin O Varghese
  */
